@@ -9,10 +9,13 @@ The application is the back end of an ecommerce website. It uses MySql, Sequeliz
 - It solves the problem of managing the inventory, descriptions, pricing, ect of an Ecommerce store.
 - By creating this project I learned how to use Sequelize to create tables in a database and interact with the database using API calls. I learned this be creating CRUD routes that manage the back-end of a store.
 
-Below is a link to a walkthrough of the applications functionality.
+Below is a link to a walkthrough of the applications functionality:
 
-https://drive.google.com/file/d/1bTbO9pyYY9gNaqKT9RHm3trcrbwMReuy/view
+https://drive.google.com/file/d/1w6oV_g9vYYYBefoZyaJ5PhW0bNkust2c/view
 
-Below is a link to the 
+Below is a link to the GitHub repo:
+
+https://github.com/chigreene/Object-Relational-Mapping_Ecommerce-Back-End
+
 ## Credits
 EdX, Ross, Sequelize.org, ChatGPT
